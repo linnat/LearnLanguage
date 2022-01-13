@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnLanguage", "LearnLanguage.csproj", "{428213E5-EF0C-4364-8FAD-22826CBC6C2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnLanguageTests", "..\LearnLanguageTests\LearnLanguageTests.csproj", "{46ECFE22-4D7A-4EA9-BB70-B982341ACAEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{428213E5-EF0C-4364-8FAD-22826CBC6C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{428213E5-EF0C-4364-8FAD-22826CBC6C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{428213E5-EF0C-4364-8FAD-22826CBC6C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{428213E5-EF0C-4364-8FAD-22826CBC6C2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46ECFE22-4D7A-4EA9-BB70-B982341ACAEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46ECFE22-4D7A-4EA9-BB70-B982341ACAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46ECFE22-4D7A-4EA9-BB70-B982341ACAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46ECFE22-4D7A-4EA9-BB70-B982341ACAEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71A84044-2847-41AE-B74F-0EC0744F92DC}
+	EndGlobalSection
+EndGlobal
